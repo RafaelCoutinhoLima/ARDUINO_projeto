@@ -1,7 +1,6 @@
+// PUZZLE DA SENHA
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
-
-// PUZZLE DA SENHA
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 const int button1Pin = 2;
