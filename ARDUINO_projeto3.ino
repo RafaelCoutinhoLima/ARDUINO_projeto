@@ -1,4 +1,4 @@
-//PUZZLE DOS FIOS
+
 const int ledPin = 8; // Conecte o LED no pino digital 8
 
 void setup() {
