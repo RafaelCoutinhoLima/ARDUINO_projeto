@@ -1,1 +1,11 @@
+//PUZZLE DOS FIOS
+const int ledPin = 8; // Conecte o LED no pino digital 8
 
+void setup() {
+  pinMode(ledPin, OUTPUT); // Define o pino como saída
+  digitalWrite(ledPin, HIGH); // Acende o LED
+}
+
+void loop() {
+  // Nada acontece no loop — o LED permanece aceso
+}
