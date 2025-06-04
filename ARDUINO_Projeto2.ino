@@ -1,9 +1,7 @@
 //PUZZLE PEGA MARMOTAS 
 const int yellowLEDs[4] = {2, 9, 8, 10};
 
-
 const int buttons[4] = {5, 4, 3, 11};
-
 
 const int greenLEDPin = 7;
 
@@ -15,12 +13,10 @@ void setup() {
     pinMode(yellowLEDs[i], OUTPUT);
     pinMode(buttons[i], INPUT_PULLUP);
   }
-
   pinMode(12, OUTPUT);
   pinMode(13, OUTPUT);
   pinMode(greenLEDPin, OUTPUT); 
   digitalWrite(greenLEDPin, LOW);
-
   randomSeed(analogRead(A0));
 }
 
