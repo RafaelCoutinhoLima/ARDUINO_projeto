@@ -29,9 +29,9 @@
   - Display LCD 16x2 (com ou sem I2C)
   - Resistores, fios e protoboard
 
-## 🚀 Como Usar
-1. Conecte o Arduino via USB e envie o código para a placa.
-2. Inicie o jogo com pelo menos dois participantes: um desarmador e um ou mais especialistas com o manual.
+## 🚀 Como jogar
+1. Forme duplas e escolha quem vai desarmar e quem vai passar as instruções.
+2. Depois só ler o manual e começar a se divertir.
 
 ## 📸 Imagens do Projeto
 
