@@ -30,11 +30,8 @@
   - Resistores, fios e protoboard
 
 ## 🚀 Como Usar
-
-1. Monte o circuito conforme o esquema na pasta `/circuito/`.
-2. Abra o arquivo `.ino` no Arduino IDE.
-3. Conecte o Arduino via USB e envie o código para a placa.
-4. Inicie o jogo com pelo menos dois participantes: um desarmador e um ou mais especialistas com o manual.
+1. Conecte o Arduino via USB e envie o código para a placa.
+2. Inicie o jogo com pelo menos dois participantes: um desarmador e um ou mais especialistas com o manual.
 
 ## 📸 Imagens do Projeto
 
