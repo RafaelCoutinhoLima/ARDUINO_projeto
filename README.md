@@ -38,7 +38,10 @@
 
 ## 📸 Imagens do Projeto
 
-Adicione imagens na pasta `imagens/` e use o seguinte código para exibir no README:
+![Foto da Bomba Montada](imagens/bomba1.jpg)
 
-```markdown
-![Foto da Bomba Montada](imagens/bomba_montada.jpg)
+![Foto da Bomba Montada](imagens/bomba2.jpg)
+
+![Foto da Bomba Montada](imagens/bomba3.jpg)
+
+![Foto da Bomba Montada](imagens/bomba4.jpg)
